@@ -53,12 +53,10 @@ This app is useful for:
 By leveraging advanced machine learning models and providing an easy-to-use interface, this app facilitates detailed and accurate analysis of kidney histology images, making it a valuable tool in the medical domain.
 
 <img src="https://github.com/user-attachments/assets/c55555ba-6666-4de1-9a1c-f3fd64c8a7b1" width="300" alt="Splash_screen">
-<img src="https://github.com/user-attachments/assets/1aee760a-0b81-4dd4-8cf0-565a569d44ef" width="300" alt="Sign_up_Screen">
 <img src="https://github.com/user-attachments/assets/73e657cd-d54a-4fbf-9868-74c8fa9a9b57" width="300" alt="Login_screen (2)">
 <img src="https://github.com/user-attachments/assets/a81c512c-8039-48b3-a037-14ab1c4edad2" width="300" alt="Segmentation_Screen">
 <img src="https://github.com/user-attachments/assets/db030f1c-a8ab-46f9-a534-4455344825de" width="300" alt="Image_Export">
 
-![Image_Export](https://github.com/user-attachments/assets/db030f1c-a8ab-46f9-a534-4455344825de)
 
 
 
