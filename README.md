@@ -52,11 +52,11 @@ This app is useful for:
 
 By leveraging advanced machine learning models and providing an easy-to-use interface, this app facilitates detailed and accurate analysis of kidney histology images, making it a valuable tool in the medical domain.
 
-<img src="https://github.com/user-attachments/assets/c55555ba-6666-4de1-9a1c-f3fd64c8a7b1" width="200" alt="Splash_screen">
-<img src="https://github.com/user-attachments/assets/e5fee5d6-a086-48bf-a6f3-9660a76e6411" width="200" alt="Sign-Up-screen">
-<img src="https://github.com/user-attachments/assets/74de88cf-16b6-4424-b6bc-ae24b4b74b75" width="200" alt="Login-screen">
-<img src="https://github.com/user-attachments/assets/a81c512c-8039-48b3-a037-14ab1c4edad2" width="200" alt="Segmentation_Screen">
-<img src="https://github.com/user-attachments/assets/db030f1c-a8ab-46f9-a534-4455344825de" width="200" alt="Image_Export">
+<img src="https://github.com/user-attachments/assets/c55555ba-6666-4de1-9a1c-f3fd64c8a7b1" width="300" alt="Splash_screen">
+<img src="https://github.com/user-attachments/assets/e5fee5d6-a086-48bf-a6f3-9660a76e6411" width="300" alt="Sign-Up-screen">
+<img src="https://github.com/user-attachments/assets/74de88cf-16b6-4424-b6bc-ae24b4b74b75" width="300" alt="Login-screen">
+<img src="https://github.com/user-attachments/assets/a81c512c-8039-48b3-a037-14ab1c4edad2" width="300" alt="Segmentation_Screen">
+<img src="https://github.com/user-attachments/assets/db030f1c-a8ab-46f9-a534-4455344825de" width="300" alt="Image_Export">
 
 
 
