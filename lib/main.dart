@@ -17,10 +17,10 @@ void main() async {
 
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyDpVASWf5wZZ9swnuPu06SFcLQ2MZ7R_d8",
-      appId: "1:346431260496:android:4675d1b8358621dac9ce55",
-      messagingSenderId: "346431260496",
-      projectId: "microvasculature",
+      apiKey: "",
+      appId: "",
+      messagingSenderId: "",
+      projectId: "",
     ),
   );
   FirebaseAuth.instance.signOut();
